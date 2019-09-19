@@ -11,7 +11,7 @@ Install via PIP
 **or**
 
 Git Clone using 
-`git clone https://github.com/AbinashSinha/WeatherCLI`
+`git clone https://github.com/AbinashSinha/weathercli`
 
 
 ## Usage 
