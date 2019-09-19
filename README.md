@@ -6,7 +6,7 @@ Web Scraping tool and a Command Line Interface for **Weather.com**
 # Installatoin
 
 Install via PIP 
-`pip install weathercli`
+`pip install wethr`
 
 **or**
 
